@@ -10,7 +10,7 @@ import pandas as pd
 import seaborn as sns
 
 #1. Create the Title
-st.title('Data Analysis Visualization on Streamlit')
+st.title('Data Analysis on Streamlit')
 st.subheader('This analysis is using python and streamlit')
 
 #2. Upload the Dataset
