@@ -1,3 +1,3 @@
 # 7-Firdaus-Streamlit-Repositories
-Visit on the streamlit web: https://futagoya-7-firdaus-streamlit-repositories-homepage-37rgyg.streamlit.app/
+https://futagoya-7-firdaus-streamlit-repositories-homepage-0io1lz.streamlit.app/ \n
 The repositories of some streamlit projects
