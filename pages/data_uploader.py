@@ -4,8 +4,6 @@ import seaborn as sns
 from style import set_background
 set_background()
 
-st.sidebar.success('Select a page above')
-
 def show():
     st.title('Data Uploader')
     st.write('This is the Data Uploader page.')
