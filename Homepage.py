@@ -4,7 +4,7 @@ from style import set_background
 set_background()
 
 # Create a dropdown menu with the page options
-menu = st.selectbox('Select a page', ['Main Page', 'Heart Disease Visualization', 'Predict Cost Machine Learning', 'Data Uploader'])
+menu = st.selectbox('Select a page', ['Main Page', 'Heart Disease Visualization', 'Predict Cost Machine Learning', 'Stock Price Information', 'Data Uploader'])
 
 # Show the selected page based on the dropdown menu option
 if menu == 'Main Page':
@@ -23,6 +23,9 @@ elif menu == 'Heart Disease Visualization':
 elif menu == 'Predict Cost Machine Learning':
     set_background()
     predict_cost_machine_learning.show()
+elif menu == 'Stock Price Information':
+    set_background()
+    stock_price.show()
 elif menu == 'Data Uploader':
     set_background()
     data_uploader.show()
