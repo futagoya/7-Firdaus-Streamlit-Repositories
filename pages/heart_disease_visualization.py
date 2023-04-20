@@ -7,8 +7,6 @@ import numpy as np
 from style import set_background
 set_background()
 
-st.sidebar.success('Select a page above')
-
 def show():
     st.title('Heart Disease Visualization')
     st.write('This is the heart disease visualization page.')
