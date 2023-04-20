@@ -4,8 +4,6 @@ import pandas as pd
 from style import set_background
 set_background()
 
-st.sidebar.success('Select a page above')
-
 def show():
     st.title('Predict Cost Machine Learning')
     st.write('This is the predict cost machine learning page.')
