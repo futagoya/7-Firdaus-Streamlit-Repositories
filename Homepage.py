@@ -1,5 +1,5 @@
 import streamlit as st
-from pages import heart_disease_visualization, predict_cost_machine_learning, data_uploader
+from pages import heart_disease_visualization, predict_cost_machine_learning, data_uploader, stock_price
 from style import set_background
 set_background()
 
